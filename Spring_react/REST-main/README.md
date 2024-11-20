@@ -68,10 +68,16 @@ Ajoute un nouveau compte. Le corps de la requête doit contenir un objet JSON av
   "dateCreation": "2024-11-20",
   "type": "COURANT"
 }
+video 
+
+Uploading video-react-spring-2_DwhtCgPR.mp4…
 
 
 
-https://github.com/user-attachments/assets/3e4e98dd-d615-4828-b258-0646bb8bf360
+
+
+
+
 
 
  

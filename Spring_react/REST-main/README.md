@@ -70,7 +70,8 @@ Ajoute un nouveau compte. Le corps de la requête doit contenir un objet JSON av
 }
 
 
-## vidéo
+
+https://github.com/user-attachments/assets/3e4e98dd-d615-4828-b258-0646bb8bf360
 
 
  
